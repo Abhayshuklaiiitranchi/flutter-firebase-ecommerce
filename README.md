@@ -1,6 +1,6 @@
 # my_gardening_app
 
-A new Flutter project.
+A small ecommerce app catering to the needs of small businesses.
 
 ## Getting Started
 
